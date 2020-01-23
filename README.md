@@ -4,6 +4,8 @@ Find 5 random pictures of the day from [NASA archive](https://apod.nasa.gov/apod
 
 ## Getting Started
 
+![NASA APOD Application Preview](https://github.com/Institute-of-Coding-Northumbria/nasa-pod/raw/master/doc/preview.gif?raw=true)
+
 This project is a starting point for a mobile application development with Flutter. 
 
 Please see [all the learning materials](http://ioc.northumbria.ac.uk) from Institute of Coding at Northumbria University and join the coding clubs where we develop similar apps together!
